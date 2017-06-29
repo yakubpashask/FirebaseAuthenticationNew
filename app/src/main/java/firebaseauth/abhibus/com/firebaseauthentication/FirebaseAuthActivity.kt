@@ -8,6 +8,11 @@ import android.view.MenuItem
 
 import kotlinx.android.synthetic.main.activity_firebase_auth.*
 
+
+/**
+ * @author Yakub Pasha
+ */
+
 class FirebaseAuthActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
